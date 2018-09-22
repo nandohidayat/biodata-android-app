@@ -1,2 +1,2 @@
-# biodata-android-app
+# Biodata | Android App
 Biodata app using Android Studio
