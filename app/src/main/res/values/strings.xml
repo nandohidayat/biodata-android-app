@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Biodata</string>
+    <string name="photo_description">My Photos</string>
+    <string name="name_tag_string">Nama :</string>
+    <string name="name_value_string">Muhammad Nando Hidayat</string>
+    <string name="nim_tag_string">NIM :</string>
+    <string name="nim_value_string">A11.2016.09986</string>
+    <string name="address_value_string">Jalan Tapak Raya RT 5 RW 3</string>
+    <string name="address_tag_string">Alamat :</string>
+    <string name="phone_tag_string">Telepon :</string>
+    <string name="phone_value_string">083842327765</string>
+    <string name="email_tag_string">Email :</string>
+    <string name="email_value_string">mnandohidayat@gmail.com</string>
 </resources>
